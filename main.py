@@ -1,10 +1,3 @@
-"""
-Run this file to try the recommender interactively from your terminal.
-
-Usage:
-    python main.py
-"""
-
 from recommender import MovieRecommender
 
 
