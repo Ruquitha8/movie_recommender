@@ -1,15 +1,3 @@
-"""
-Content-Based Movie Recommendation System
-============================================
-This is the "engine" of the project. It reads the movie dataset, converts
-each movie's genres + description into a numeric vector (using TF-IDF),
-and then measures how similar movies are to each other (using cosine
-similarity). Movies with the highest similarity score get recommended.
-
-Beginner note: you don't need any user ratings for this approach — it works
-purely off the *content* of each movie (hence "content-based" filtering).
-"""
-
 import random
 
 import pandas as pd
