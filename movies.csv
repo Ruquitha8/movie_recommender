@@ -1,0 +1,175 @@
+movie_id,title,language,hero,heroine,genres,description
+1,The Matrix,English,Keanu Reeves,Carrie-Anne Moss,Action|Sci-Fi,A hacker discovers reality is a simulation and joins a rebellion against machines
+2,Inception,English,Leonardo DiCaprio,Elliot Page,Action|Sci-Fi|Thriller,A thief who steals secrets through dream-sharing technology takes on one last impossible job
+3,Interstellar,English,Matthew McConaughey,Anne Hathaway,Adventure|Drama|Sci-Fi,A team of explorers travel through a wormhole to save humanity from a dying Earth
+4,The Dark Knight,English,Christian Bale,Maggie Gyllenhaal,Action|Crime|Drama,Batman faces the Joker a criminal mastermind who wants to plunge Gotham into anarchy
+5,Pulp Fiction,English,John Travolta,Uma Thurman,Crime|Drama,The lives of two hitmen a boxer and gangsters intertwine in violent Los Angeles stories
+6,Fight Club,English,Edward Norton,Helena Bonham Carter,Drama,An insomniac office worker forms an underground fight club that spirals out of control
+7,Forrest Gump,English,Tom Hanks,Robin Wright,Drama|Romance,A slow-witted man witnesses and influences several defining historical events in America
+8,The Shawshank Redemption,English,Tim Robbins,N/A,Drama,Two imprisoned men bond over years finding redemption through acts of common decency
+9,Titanic,English,Leonardo DiCaprio,Kate Winslet,Drama|Romance,A young aristocrat falls in love with a poor artist aboard the ill-fated Titanic
+10,The Notebook,English,Ryan Gosling,Rachel McAdams,Drama|Romance,A poor young man and a rich young woman fall in love in the 1940s American South
+11,La La Land,English,Ryan Gosling,Emma Stone,Comedy|Drama|Romance,A jazz musician and an aspiring actress fall in love while pursuing their dreams
+12,Toy Story,English,Tom Hanks,N/A,Animation|Adventure|Comedy,A cowboy doll is threatened when a new spaceman action figure arrives at the household
+13,Finding Nemo,English,Albert Brooks,Ellen DeGeneres,Animation|Adventure|Comedy,A clownfish searches the ocean for his abducted son with the help of a forgetful fish
+14,Shrek,English,Mike Myers,Cameron Diaz,Animation|Adventure|Comedy,An ogre agrees to rescue a princess in order to reclaim his swamp from an evil lord
+15,Coco,English,Anthony Gonzalez,N/A,Animation|Adventure|Family,A boy travels to the Land of the Dead to discover his family's forbidden musical history
+16,Get Out,English,Daniel Kaluuya,Allison Williams,Horror|Mystery|Thriller,A young man uncovers a disturbing secret when he visits his girlfriend's family estate
+17,A Quiet Place,English,John Krasinski,Emily Blunt,Horror|Sci-Fi|Thriller,A family must live in silence to avoid creatures that hunt using sound
+18,The Conjuring,English,Patrick Wilson,Vera Farmiga,Horror|Mystery|Thriller,Paranormal investigators help a family terrorized by a dark presence in their farmhouse
+19,Hereditary,English,Alex Wolff,Toni Collette,Horror|Mystery,A family unravels dark secrets after the death of their secretive grandmother
+20,John Wick,English,Keanu Reeves,N/A,Action|Crime|Thriller,An ex-hitman comes out of retirement to track down the gangsters who took everything from him
+21,Mad Max Fury Road,English,Tom Hardy,Charlize Theron,Action|Adventure|Sci-Fi,A woman rebels against a tyrannical ruler in postapocalyptic Australia with the aid of a group of female prisoners
+22,Guardians of the Galaxy,English,Chris Pratt,Zoe Saldana,Action|Adventure|Comedy,A group of intergalactic misfits must band together to save the galaxy from a powerful villain
+23,Iron Man,English,Robert Downey Jr.,Gwyneth Paltrow,Action|Adventure|Sci-Fi,A billionaire industrialist builds a powered suit of armor to fight evil
+24,Avengers Endgame,English,Robert Downey Jr.,Scarlett Johansson,Action|Adventure|Sci-Fi,The remaining heroes assemble to reverse the damage caused by a universe altering villain
+25,Spider-Man Into the Spider-Verse,English,Shameik Moore,Hailee Steinfeld,Animation|Action|Adventure,A teenager becomes Spider-Man and joins other spider heroes from parallel universes
+26,The Grand Budapest Hotel,English,Ralph Fiennes,Saoirse Ronan,Comedy|Drama,A concierge and his protege become involved in a theft and murder at a famous European hotel
+27,Superbad,English,Jonah Hill,Emma Stone,Comedy,Two high school friends navigate one wild night before graduation
+28,Bridesmaids,English,N/A,Kristen Wiig,Comedy,A maid of honor's life unravels as she competes to plan the perfect wedding
+29,The Hangover,English,Bradley Cooper,N/A,Comedy,Three friends search frantically for their missing groom before his wedding
+30,Knives Out,English,Daniel Craig,Ana de Armas,Comedy|Crime|Drama,A detective investigates the death of a wealthy crime novelist surrounded by a dysfunctional family
+31,Se7en,English,Brad Pitt,Gwyneth Paltrow,Crime|Drama|Mystery,Two detectives hunt a serial killer who uses the seven deadly sins as his motives
+32,Zodiac,English,Jake Gyllenhaal,N/A,Crime|Drama|Mystery,Investigators become obsessed with tracking down the Zodiac killer in San Francisco
+33,Gone Girl,English,Ben Affleck,Rosamund Pike,Drama|Mystery|Thriller,A man becomes the prime suspect when his wife mysteriously disappears on their anniversary
+34,Parasite,English,Song Kang-ho,Cho Yeo-jeong,Comedy|Drama|Thriller,A poor family schemes to become employed by a wealthy household by infiltrating it
+35,Whiplash,English,Miles Teller,N/A,Drama|Music,A young drummer enrolls at a music school where his dreams are pushed to their limits by a ruthless instructor
+36,The Social Network,English,Jesse Eisenberg,Rooney Mara,Biography|Drama,Harvard students create a social networking website that leads to lawsuits and lost friendships
+37,Rocky,English,Sylvester Stallone,Talia Shire,Drama|Sport,A small time boxer gets a supremely rare chance to fight a heavyweight champion
+38,The Pursuit of Happyness,English,Will Smith,N/A,Biography|Drama,A struggling salesman takes custody of his son as he begins a life changing career
+39,Gladiator,English,Russell Crowe,Connie Nielsen,Action|Adventure|Drama,A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family
+40,Braveheart,English,Mel Gibson,Catherine McCormack,Biography|Drama|War,A Scottish warrior leads his countrymen in a rebellion against English rule
+41,Saving Private Ryan,English,Tom Hanks,N/A,Drama|War,A group of soldiers go behind enemy lines to retrieve a paratrooper whose brothers were killed in action
+42,The Lord of the Rings Fellowship,English,Elijah Wood,Liv Tyler,Adventure|Drama|Fantasy,A hobbit and companions set out to destroy a powerful ring and save Middle Earth
+43,Harry Potter and the Sorcerers Stone,English,Daniel Radcliffe,Emma Watson,Adventure|Family|Fantasy,An orphaned boy discovers he is a wizard and begins his education at a magical school
+44,Avatar,English,Sam Worthington,Zoe Saldana,Action|Adventure|Fantasy,A paraplegic marine on an alien planet becomes torn between duty and protecting the world he feels is home
+45,Frozen,English,N/A,Kristen Bell,Animation|Adventure|Family,A princess sets off to find her sister whose icy powers have trapped their kingdom in eternal winter
+46,Baahubali The Beginning,Telugu,Prabhas,Anushka Shetty,Action|Adventure|Drama,A young man raised in a village discovers his royal lineage and the truth behind his father's death
+47,Baahubali 2 The Conclusion,Telugu,Prabhas,Anushka Shetty,Action|Adventure|Drama,The saga continues as the reasons behind a king's betrayal and exile are finally revealed
+48,RRR,Telugu,Ram Charan,Alia Bhatt,Action|Adventure|Drama,Two revolutionaries form a friendship before fate pulls them onto opposite sides of a fight against colonial rule
+49,Pushpa The Rise,Telugu,Allu Arjun,Rashmika Mandanna,Action|Crime|Drama,A laborer rises through the ranks of a red sandalwood smuggling syndicate driven by pride and ambition
+50,Arjun Reddy,Telugu,Vijay Deverakonda,Shalini Pandey,Drama|Romance,A brilliant but self-destructive surgeon spirals into addiction after losing the woman he loves
+51,Eega,Telugu,Nani,Samantha Ruth Prabhu,Action|Fantasy|Thriller,A murdered man is reincarnated as a housefly and seeks revenge on the man who killed him
+52,Magadheera,Telugu,Ram Charan,Kajal Aggarwal,Action|Fantasy|Romance,A warrior's past life love story resurfaces four hundred years later in the present day
+53,Ala Vaikunthapurramuloo,Telugu,Allu Arjun,Pooja Hegde,Comedy|Drama|Family,A young man swapped at birth navigates family drama between his humble and wealthy households
+54,Sarileru Neekevvaru,Telugu,Mahesh Babu,Rashmika Mandanna,Action|Comedy|Drama,An army officer returns home on leave and helps a family reclaim their rightful property
+55,Rangasthalam,Telugu,Ram Charan,Samantha Ruth Prabhu,Action|Drama,A hearing-impaired man fights against a corrupt village president who controls the local water supply
+56,Jersey,Telugu,Nani,Shraddha Srinath,Drama|Sport,A failed cricketer makes a comeback in his late thirties to fulfill his son's small wish
+57,Mahanati,Telugu,Dulquer Salmaan,Keerthy Suresh,Biography|Drama,The rise and tragic fall of a legendary actress who redefined South Indian cinema
+58,Geetha Govindam,Telugu,Vijay Deverakonda,Rashmika Mandanna,Comedy|Romance,A misunderstanding on a bus leads to an unlikely romance between a lecturer and a young woman
+59,Bommarillu,Telugu,Siddharth,Genelia D'Souza,Comedy|Drama|Romance,A young man torn between his controlling father's wishes and his own dreams falls in love
+60,Athadu,Telugu,Mahesh Babu,Trisha Krishnan,Action|Comedy|Drama,A contract killer assumes a new identity and gets tangled in a small town's local politics
+61,Sye,Telugu,Nithiin,Genelia D'Souza,Action|Sport,Rival college rugby teams clash on and off the field before uniting for a common cause
+62,Chatrapathi,Telugu,Prabhas,Shriya Saran,Action|Drama,A refugee rises up against a tyrant who exploits laborers in a slum colony
+63,Ninnu Kori,Telugu,Nani,Nivetha Thomas,Drama|Romance,A woman reconnects with her ex-fiance years after marrying someone else forcing hard choices
+64,DJ Duvvada Jagannadham,Telugu,Allu Arjun,Pooja Hegde,Action|Comedy,A man conceals his violent past while working undercover as a domestic help
+65,Temper,Telugu,Jr NTR,Kajal Aggarwal,Action|Comedy|Drama,A corrupt cop transforms into an honest officer after falling for an idealistic woman
+66,Fidaa,Telugu,Varun Tej,Sai Pallavi,Drama|Romance,A US-based doctor falls for a spirited village girl during a visit home for his brother's wedding
+67,Pelli Choopulu,Telugu,Vijay Deverakonda,Ritu Varma,Comedy|Drama|Romance,Two entrepreneurs meet during an arranged marriage introduction and end up starting a business together
+68,3 Idiots,Hindi,Aamir Khan,Kareena Kapoor,Comedy|Drama,Two friends search for their long lost college companion while reflecting on his unconventional approach to education
+69,Dangal,Hindi,Aamir Khan,Fatima Sana Shaikh,Biography|Drama|Sport,A former wrestler trains his daughters to become world class wrestlers against social expectations
+70,Lagaan,Hindi,Aamir Khan,Gracy Singh,Drama|Sport,Villagers under colonial rule challenge their oppressors to a cricket match to escape a crushing tax
+71,Sholay,Hindi,Dharmendra,Hema Malini,Action|Adventure|Drama,Two small time criminals are hired by a former police officer to capture a ruthless bandit
+72,Dilwale Dulhania Le Jayenge,Hindi,Shah Rukh Khan,Kajol,Drama|Romance,Two young non-resident Indians fall in love during a European trip and must win over her traditional family
+73,Kabhi Khushi Kabhie Gham,Hindi,Shah Rukh Khan,Kajol,Drama|Family|Romance,A family is torn apart when the eldest son marries against his father's wishes and years of estrangement follow
+74,Zindagi Na Milegi Dobara,Hindi,Hrithik Roshan,Katrina Kaif,Adventure|Comedy|Drama,Three friends confront their fears and rediscover themselves on a bachelor road trip through Spain
+75,PK,Hindi,Aamir Khan,Anushka Sharma,Comedy|Drama|Sci-Fi,An alien stranded on Earth questions religious dogma while searching for the device that can send him home
+76,Gully Boy,Hindi,Ranveer Singh,Alia Bhatt,Drama|Music,A young man from the slums pursues his dream of becoming a rapper against tremendous odds
+77,Andhadhun,Hindi,Ayushmann Khurrana,Tabu,Crime|Mystery|Thriller,A blind pianist becomes entangled in a murder after witnessing more than he should have
+78,Queen,Hindi,N/A,Kangana Ranaut,Comedy|Drama,A jilted bride goes on her honeymoon alone and discovers independence and self-confidence along the way
+79,Barfi,Hindi,Ranbir Kapoor,Priyanka Chopra,Comedy|Drama|Romance,A mute and deaf man's playful charm wins the hearts of two very different women
+80,Taare Zameen Par,Hindi,Aamir Khan,N/A,Drama|Family,A struggling dyslexic child is helped by an art teacher who recognizes his hidden talent
+81,Swades,Hindi,Shah Rukh Khan,Gayatri Joshi,Drama,A NASA scientist returns to his home village and is inspired to help modernize the community
+82,Chak De India,Hindi,Shah Rukh Khan,Vidya Malvade,Drama|Sport,A disgraced former hockey captain coaches the women's national team toward redemption and a championship
+83,Rang De Basanti,Hindi,Aamir Khan,Soha Ali Khan,Drama,A group of carefree college friends are radicalized into activism after a personal tragedy
+84,Kabir Singh,Hindi,Shahid Kapoor,Kiara Advani,Drama|Romance,A brilliant but self-destructive surgeon spirals after losing the woman he loves
+85,Bajrangi Bhaijaan,Hindi,Salman Khan,Kareena Kapoor,Comedy|Drama,A devout man helps a mute lost girl from across the border find her way back home
+86,Gangs of Wasseypur,Hindi,Manoj Bajpayee,Richa Chadha,Crime|Drama,A multi-generational blood feud unfolds between rival coal mafia families in a small Indian town
+87,Uri The Surgical Strike,Hindi,Vicky Kaushal,Yami Gautam,Action|Drama|War,An army officer leads a covert retaliatory strike after a deadly attack on a military base
+88,Article 15,Hindi,Ayushmann Khurrana,N/A,Crime|Drama,A police officer investigates the disappearance of two girls in a caste-divided rural town
+89,Pink,Hindi,Amitabh Bachchan,Taapsee Pannu,Drama|Thriller,A retired lawyer defends three young women whose reputations are attacked after a night gone wrong
+90,Badhaai Ho,Hindi,Ayushmann Khurrana,Sanya Malhotra,Comedy|Drama,A grown son is mortified to learn his middle aged parents are expecting another child
+91,Stree,Hindi,Rajkummar Rao,Shraddha Kapoor,Comedy|Horror,A small town is haunted by a spirit that abducts men who venture out alone at night
+92,The Godfather,English,Al Pacino,N/A,Crime|Drama,A patriarch of a powerful crime family transfers control to his reluctant son
+93,Goodfellas,English,Ray Liotta,Lorraine Bracco,Crime|Drama,A young man rises through the ranks of the mob before it all comes crashing down
+94,The Departed,English,Leonardo DiCaprio,Vera Farmiga,Crime|Drama|Thriller,An undercover cop and a mole in the police force try to identify each other
+95,Scarface,English,Al Pacino,Michelle Pfeiffer,Crime|Drama,A Cuban immigrant seizes control of a Miami drug empire through ruthless ambition
+96,The Silence of the Lambs,English,Anthony Hopkins,Jodie Foster,Crime|Horror|Thriller,A young FBI trainee seeks the help of an imprisoned cannibal to catch another serial killer
+97,Jurassic Park,English,Sam Neill,Laura Dern,Action|Adventure|Sci-Fi,A theme park showcasing genetically recreated dinosaurs descends into chaos
+98,Back to the Future,English,Michael J. Fox,Lea Thompson,Adventure|Comedy|Sci-Fi,A teenager is accidentally sent thirty years into the past in a time traveling car
+99,E.T. the Extra-Terrestrial,English,Henry Thomas,Drew Barrymore,Family|Sci-Fi,A lonely boy befriends a stranded alien and helps him find his way home
+100,Star Wars A New Hope,English,Mark Hamill,Carrie Fisher,Action|Adventure|Sci-Fi,A farm boy joins a rebellion to rescue a princess and destroy a planet killing weapon
+101,The Empire Strikes Back,English,Mark Hamill,Carrie Fisher,Action|Adventure|Sci-Fi,The rebellion regroups as its young hero trains to master a mystical power
+102,Jaws,English,Roy Scheider,N/A,Adventure|Thriller,A giant shark terrorizes a beach town forcing three men to hunt it down at sea
+103,The Terminator,English,Arnold Schwarzenegger,Linda Hamilton,Action|Sci-Fi,A cyborg assassin is sent back in time to kill the mother of a future resistance leader
+104,Terminator 2 Judgment Day,English,Arnold Schwarzenegger,Linda Hamilton,Action|Sci-Fi,A reprogrammed cyborg protects a boy from a more advanced shape-shifting machine
+105,Die Hard,English,Bruce Willis,Bonnie Bedelia,Action|Thriller,An off duty cop battles terrorists who have taken over a Los Angeles skyscraper
+106,Alien,English,N/A,Sigourney Weaver,Horror|Sci-Fi,The crew of a commercial spaceship is hunted by a deadly extraterrestrial organism
+107,The Prestige,English,Hugh Jackman,Scarlett Johansson,Drama|Mystery|Sci-Fi,Two rival magicians engage in a dangerous battle of one-upmanship
+108,Memento,English,Guy Pearce,Carrie-Anne Moss,Mystery|Thriller,A man with short term memory loss hunts for the person who murdered his wife
+109,The Truman Show,English,Jim Carrey,Laura Linney,Comedy|Drama,A man slowly discovers his entire life has been a nonstop television show
+110,Good Will Hunting,English,Matt Damon,Minnie Driver,Drama,A janitor with a genius intellect is discovered and mentored by a therapist
+111,Dead Poets Society,English,Robin Williams,N/A,Drama,An unconventional teacher inspires his students to seize the day through poetry
+112,A Beautiful Mind,English,Russell Crowe,Jennifer Connelly,Biography|Drama,A brilliant mathematician struggles with schizophrenia while making groundbreaking discoveries
+113,The Green Mile,English,Tom Hanks,N/A,Crime|Drama|Fantasy,A death row guard witnesses the supernatural gift of a gentle giant inmate
+114,Schindlers List,English,Liam Neeson,N/A,Biography|Drama|War,A businessman saves the lives of over a thousand Jewish refugees during the Holocaust
+115,12 Angry Men,English,Henry Fonda,N/A,Drama,A lone juror tries to convince eleven others to reconsider the evidence in a murder trial
+116,The Usual Suspects,English,Kevin Spacey,N/A,Crime|Mystery|Thriller,A survivor recounts the events that led to a deadly shootout on a boat
+117,Django Unchained,English,Jamie Foxx,Kerry Washington,Drama,A freed slave partners with a bounty hunter to rescue his wife from a ruthless plantation owner
+118,The Wolf of Wall Street,English,Leonardo DiCaprio,Margot Robbie,Biography|Crime|Drama,A stockbroker builds an empire of fraud and excess before it all collapses
+119,Catch Me If You Can,English,Leonardo DiCaprio,Amy Adams,Biography|Crime|Drama,A young con man impersonates professionals while an FBI agent pursues him
+120,Big Fish,English,Ewan McGregor,Alison Lohman,Adventure|Drama|Fantasy,A son tries to separate fact from fantasy in his dying father's tall tales
+121,Up,English,Ed Asner,N/A,Animation|Adventure|Family,An elderly widower ties balloons to his house and flies off on an adventure with a young stowaway
+122,Inside Out,English,N/A,Amy Poehler,Animation|Adventure|Comedy,Personified emotions guide a young girl through a difficult family move
+123,WALL-E,English,N/A,N/A,Animation|Adventure|Family,A lonely waste collecting robot on a ruined Earth falls for a sleek exploration robot
+124,The Incredibles,English,Craig T. Nelson,Holly Hunter,Animation|Action|Adventure,A family of retired superheroes is forced back into action to save the world
+125,Ratatouille,English,Patton Oswalt,N/A,Animation|Adventure|Comedy,A rat with a passion for cooking dreams of becoming a chef in a Paris restaurant
+126,Moana,English,Dwayne Johnson,Auli'i Cravalho,Animation|Adventure|Family,A chief's daughter sails across the ocean to save her people with the help of a demigod
+127,Zootopia,English,Jason Bateman,Ginnifer Goodwin,Animation|Adventure|Comedy,A rookie rabbit officer teams up with a con artist fox to solve a mystery in an animal city
+128,The Lion King,English,Matthew Broderick,N/A,Animation|Adventure|Drama,A young lion prince flees his kingdom after his father's death and must reclaim his throne
+129,Aladdin,English,Scott Weinger,Linda Larkin,Animation|Adventure|Family,A street thief wins the heart of a princess with the help of a wish granting genie
+130,Home Alone,English,Macaulay Culkin,N/A,Comedy|Family,A young boy is accidentally left behind and must defend his house from burglars
+131,Pokiri,Telugu,Mahesh Babu,Ileana D'Cruz,Action|Crime|Thriller,An undercover cop infiltrates a criminal gang to expose their operations
+132,Businessman,Telugu,Mahesh Babu,Kajal Aggarwal,Action|Crime|Thriller,A ruthless contract killer takes over a city's crime network with his own rules
+133,Yevadu,Telugu,Ram Charan,Kajal Aggarwal,Action|Drama,A man raised apart from his twin brother returns to confront the crime lord who wronged their family
+134,Attarintiki Daredi,Telugu,Pawan Kalyan,Samantha Ruth Prabhu,Comedy|Drama|Family,A grandson secretly returns home to reunite his estranged grandfather with his daughter
+135,Srimanthudu,Telugu,Mahesh Babu,Shruti Haasan,Drama,A wealthy heir adopts a struggling village to transform its people's lives
+136,Bharat Ane Nenu,Telugu,Mahesh Babu,Kiara Advani,Drama,A young man educated abroad becomes chief minister and battles corruption in his state
+137,Janatha Garage,Telugu,Jr NTR,Samantha Ruth Prabhu,Action|Drama,A garage owner leads a movement against a corrupt businessman exploiting local land
+138,Khaleja,Telugu,Mahesh Babu,Anushka Shetty,Action|Comedy|Fantasy,A taxi driver discovers he is prophesied to save a drought stricken village
+139,Arya,Telugu,Allu Arjun,Anuradha Mehta,Drama|Romance,A carefree college student's one-sided love story takes an unexpected turn
+140,Julayi,Telugu,Allu Arjun,Ileana D'Cruz,Action|Comedy,A carefree man gets entangled with a woman searching for her father's missing wealth
+141,Race Gurram,Telugu,Allu Arjun,Shruti Haasan,Action|Comedy,A small time gambler tries to save his sister from an arranged marriage to a gangster
+142,Gabbar Singh,Telugu,Pawan Kalyan,Shruti Haasan,Action|Comedy,A strict but beloved police officer cleans up crime in a small town his own way
+143,Dookudu,Telugu,Mahesh Babu,Samantha Ruth Prabhu,Action|Comedy,An undercover officer poses as a carefree young man while investigating a smuggling ring
+144,1 Nenokkadine,Telugu,Mahesh Babu,Kriti Sanon,Mystery|Thriller,A traumatized rock star investigates his father's murder while doubting his own sanity
+145,Vikramarkudu,Telugu,Ravi Teja,Anushka Shetty,Action|Comedy,A petty thief is mistaken for a look alike honest police officer with a violent past
+146,Simhadri,Telugu,Jr NTR,Bhoomika Chawla,Action|Drama,A devoted bodyguard's mysterious past unravels to reveal a hidden family duty
+147,Okkadu,Telugu,Mahesh Babu,Bhoomika Chawla,Action|Drama|Romance,A kabaddi player rescues a woman fleeing a forced marriage to a local politician's son
+148,Kushi,Telugu,Pawan Kalyan,Bhoomika Chawla,Comedy|Romance,Two strangers forced to travel together slowly fall in love despite constant bickering
+149,Manam,Telugu,Naga Chaitanya,Samantha Ruth Prabhu,Comedy|Drama|Family,Three generations of a family get a chance to fix their past mistakes through reincarnation
+150,Uppena,Telugu,Panja Vaisshnav Tej,Krithi Shetty,Drama|Romance,A fisherman's son falls for the daughter of a powerful landlord with tragic consequences
+151,Sita Ramam,Telugu,Dulquer Salmaan,Mrunal Thakur,Drama|Romance|War,An orphaned soldier's letters from an unknown woman lead to a decades old love story
+152,Major,Telugu,Adivi Sesh,Saiee Manjrekar,Action|Biography|Drama,The story of an army major who sacrificed his life protecting hostages during a terror attack
+153,Bheemla Nayak,Telugu,Pawan Kalyan,Nivetha Thomas,Action|Drama,A clash of egos between a strict police officer and a proud local leader escalates into conflict
+154,Deewaar,Hindi,Amitabh Bachchan,Parveen Babi,Action|Crime|Drama,Two brothers raised in poverty choose opposite paths one lawful and one criminal
+155,Mother India,Hindi,N/A,Nargis,Drama,A poverty stricken mother raises her sons alone while battling debt and hardship
+156,Kal Ho Naa Ho,Hindi,Shah Rukh Khan,Preity Zinta,Drama|Romance,A dying man secretly orchestrates a romance between his best friend and the woman he loves
+157,Om Shanti Om,Hindi,Shah Rukh Khan,Deepika Padukone,Comedy|Drama|Romance,A junior actor reincarnated decades later seeks revenge for his and his love's deaths
+158,Chennai Express,Hindi,Shah Rukh Khan,Deepika Padukone,Action|Comedy|Romance,A middle aged man's train trip turns into a chaotic journey after he meets a runaway bride
+159,Yeh Jawaani Hai Deewani,Hindi,Ranbir Kapoor,Deepika Padukone,Comedy|Drama|Romance,Old friends reunite years later and confront feelings left unresolved since a college trip
+160,Tanu Weds Manu,Hindi,R. Madhavan,Kangana Ranaut,Comedy|Romance,An arranged marriage between two mismatched personalities leads to unexpected chaos
+161,Vicky Donor,Hindi,Ayushmann Khurrana,Yami Gautam,Comedy|Drama,A young man becomes a prolific sperm donor leading to unexpected complications in his life
+162,Piku,Hindi,Irrfan Khan,Deepika Padukone,Comedy|Drama,A woman balances her career and dating life while caring for her eccentric elderly father
+163,Drishyam,Hindi,Ajay Devgn,Shriya Saran,Crime|Drama|Mystery,A father goes to extreme lengths to protect his family after covering up a crime
+164,Kahaani,Hindi,N/A,Vidya Balan,Mystery|Thriller,A pregnant woman searches Kolkata for her missing husband uncovering a dangerous conspiracy
+165,Talaash,Hindi,Aamir Khan,Kareena Kapoor,Crime|Drama|Mystery,A grieving detective investigates a mysterious death connected to the city's underworld
+166,Raazi,Hindi,Vicky Kaushal,Alia Bhatt,Drama|Thriller,A young woman becomes a spy for her country after marrying into a family across the border
+167,Sultan,Hindi,Salman Khan,Anushka Sharma,Drama|Sport,A former wrestling champion attempts a comeback to save his marriage and reputation
+168,Mary Kom,Hindi,N/A,Priyanka Chopra,Biography|Drama|Sport,A small town boxer overcomes prejudice and hardship to become a world champion
+169,Bhaag Milkha Bhaag,Hindi,Farhan Akhtar,Sonam Kapoor,Biography|Drama|Sport,A runner haunted by the trauma of partition rises to become a celebrated national athlete
+170,Neerja,Hindi,N/A,Sonam Kapoor,Biography|Drama|Thriller,A young flight attendant saves hundreds of passengers during a hijacking at great personal cost
+171,Sanju,Hindi,Ranbir Kapoor,N/A,Biography|Drama,The turbulent life of a troubled film star is chronicled through his struggles and redemption
+172,Hera Pheri,Hindi,Akshay Kumar,N/A,Comedy,Three broke roommates get entangled in a ransom scheme meant for someone else entirely
+173,Golmaal,Hindi,Ajay Devgn,N/A,Comedy,A group of friends juggle an ever growing web of lies to hide the truth from an old couple
+174,Munna Bhai MBBS,Hindi,Sanjay Dutt,Gracy Singh,Comedy|Drama,A good hearted gangster poses as a doctor to fulfill his father's wish and ends up transforming a hospital
